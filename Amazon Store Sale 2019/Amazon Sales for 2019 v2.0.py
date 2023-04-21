@@ -407,7 +407,7 @@ sales_2019.head(10)
 
 # save a copy of the sales 2021 data set as .csv
 
-sales_2019.to_csv(r"C:\Users\yanri\OneDrive\Desktop\Sales Project\Amazon_Sales_2019.csv", encoding='utf-8', index=False)
+sales_2019.to_csv(r"****\Sales Project\Sales Dataset\Amazon_Sales_2019.csv", encoding='utf-8', index=False)
 
 
 # In[49]:
